@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Usman Aliman Ali</h1>
+<h1 align="center">Hi 👋, I'm Usman Ali</h1>
 <h3 align="center">A passionate Web developer from Pakistan</h3>
 
 - 🔭 I’m currently working on **k2x**
